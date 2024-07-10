@@ -1,0 +1,33 @@
+[
+    {
+        "clave": "value",
+    
+        "clave2": [
+            "value",
+            "value"
+        ],
+    
+        "clave3": {
+            "clave": "value",
+            "clave2": "value"
+        },
+    
+        "clave4": {
+            "clave": [
+                "value",
+                "value"
+            ]
+        },
+
+        "clave5": [
+            {
+                "clave": "value",
+                "clave2": "value"
+            }
+        ]
+    },
+    
+    {
+        "clave": "value"
+    }
+]
